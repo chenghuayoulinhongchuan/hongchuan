@@ -1,5 +1,4 @@
 package Mianxiangduixiang;
-//ºÃµÄ
 
 class Studentpartone{
 	private String name;
